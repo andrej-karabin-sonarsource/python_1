@@ -87,6 +87,11 @@ def get(filename):
         L=L[:-1]
     return string.join(L, '\n')
 
+def asdf():
+    print "asdf"
+    print "asdf"
+    print "asdf"
+
 if __name__ == '__main__':
     import sys
     if len(sys.argv) == 1:
