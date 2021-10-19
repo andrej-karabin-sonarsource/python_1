@@ -92,6 +92,9 @@ def asdf():
     print "asdf"
     print "asdf"
 
+def branch_one():
+    print "branch_1"
+
 if __name__ == '__main__':
     import sys
     if len(sys.argv) == 1:
