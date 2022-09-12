@@ -21,4 +21,4 @@ jobs:
         with:
           args: >
             -Dsonar.verbose=true
-            -Dsonar.projectKey
+            -Dsonar.projectKey=Github_project_python_1
